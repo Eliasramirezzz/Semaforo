@@ -41,5 +41,3 @@ npm run dev
 # o si usas yarn
 yarn dev
 
-
-```bash

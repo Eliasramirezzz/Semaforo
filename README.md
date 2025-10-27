@@ -31,13 +31,15 @@ cd semaforo
 
 ### 3. Instalar dependencia
 Desde la carpeta raíz del proyecto, ejecuta el siguiente comando para descargar todas las dependencias necesarias (React, TypeScript, Tailwind, etc.):
+
 npm install
-# o si usas yarn
+o si usas yarn
 yarn install
 
 ### 4. Ejecutar la Aplicación
 Para iniciar el servidor de desarrollo local de Vite y ver el semáforo en acción:
+
 npm run dev
-# o si usas yarn
+o si usas yarn
 yarn dev
 
